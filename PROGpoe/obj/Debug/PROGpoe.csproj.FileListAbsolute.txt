@@ -1,0 +1,7 @@
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\bin\Debug\PROGpoe.exe.config
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\bin\Debug\PROGpoe.exe
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\bin\Debug\PROGpoe.pdb
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\obj\Debug\PROGpoe.csproj.AssemblyReference.cache
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\obj\Debug\PROGpoe.csproj.CoreCompileInputs.cache
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\obj\Debug\PROGpoe.exe
+C:\Users\Aaria\source\repos\PROGpoe\PROGpoe\obj\Debug\PROGpoe.pdb
